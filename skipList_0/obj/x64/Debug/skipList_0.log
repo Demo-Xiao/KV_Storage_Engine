@@ -1,0 +1,11 @@
+﻿  Validating sources
+  Copying sources remotely to '47.120.15.84'
+  Validating architecture
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  SkipList.cpp
+D:\codeSpace\CppSpace\StorageEngine\skipList_0\skipList_0\SkipList.h(39,37): warning : conversion from ‘time_t’ {aka ‘long int’} to ‘unsigned int’ may change value [-Wconversion]
+D:\codeSpace\CppSpace\StorageEngine\skipList_0\skipList_0\SkipList.h(45,37): warning : conversion from ‘time_t’ {aka ‘long int’} to ‘unsigned int’ may change value [-Wconversion]
+  Linking objects
+  skipList_0.vcxproj -> D:\codeSpace\CppSpace\StorageEngine\skipList_0\skipList_0\bin\x64\Debug\skipList_0.out

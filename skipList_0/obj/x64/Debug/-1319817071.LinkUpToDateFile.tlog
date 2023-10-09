@@ -1,0 +1,1 @@
+g++ -o "/home/ecs-user/projects/skipList_0/bin/x64/Debug/skipList_0.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack "/home/ecs-user/projects/skipList_0/obj/x64/Debug/main.o" "/home/ecs-user/projects/skipList_0/obj/x64/Debug/SkipList.o"
